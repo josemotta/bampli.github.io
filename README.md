@@ -22,7 +22,10 @@ As equações abaixo refletem as relações entre os Indicadores da Empresa:
 
 ## 2 - Cyclo: Máquina de Ganho	
 
-A Camada 2 define o Processo pelas regras originais de Deming, com adição da última regra que define o Ciclo do Processo, em que tudo sai da Terra e tudo retorna à Terra. Com isso, coloca-se também em prática a regra seis que exige que sejam estabelecidas relações de confiança do tipo "*É isto que posso fazer por você. Eis o que você poderia fazer por mim*".	
+A Camada 2 define o Processo pelas regras originais de Deming, com adição da última regra que define o Ciclo do Processo, em que tudo sai da Terra e tudo retorna à Terra. Com isso, coloca-se também em prática a regra que estabelece relações de confiança do tipo:
+
+- *É isto que posso fazer por você.*  
+- *Eis o que você poderia fazer por mim.*	
 
 ![Cyclo](http://i.imgur.com/yh9pcxf.png)	
 
