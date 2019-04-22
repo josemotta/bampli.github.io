@@ -7,9 +7,9 @@
 #### Roteiro:
 
 - **O que mudar**: Explore primeiro a [raiz do problema](./1.o-que-mudar.md). 
-- **Para o que mudar**: O [conhecimento já desenvolvido](https://github.com/bampli/AmpliBusiness/blob/master/2.para-o-que-mudar.md) no passado é o ponto de partida.
-- **Como mudar**: A missão é [orientar a decisão de investidores e gerentes](https://github.com/bampli/AmpliBusiness/blob/master/3.como-mudar.md) na direção do ótimo global.
-- **O conflito na pirâmide**: Analisando a [pirâmide hierárquica ](https://github.com/bampli/AmpliBusiness/blob/master/4.o-conflito-na-piramide.md) que tudo comanda.
+- **Para o que mudar**: O [conhecimento já desenvolvido](./2.para-o-que-mudar.md) no passado é o ponto de partida.
+- **Como mudar**: A missão é [orientar a decisão de investidores e gerentes](./3.como-mudar.md) na direção do ótimo global.
+- **O conflito na pirâmide**: Analisando a [pirâmide hierárquica ](./4.o-conflito-na-piramide.md) que tudo comanda.
 
 ## 1 - Indicadores da Empresa	
 
