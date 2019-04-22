@@ -10,6 +10,14 @@
 - **[Como mudar](./3.como-mudar.md)**: A missão é [orientar a decisão de investidores e gerentes](./3.como-mudar.md) para o ótimo global.
 - **[O conflito na pirâmide](./4.o-conflito-na-piramide.md)**: Analisando a [pirâmide hierárquica](./4.o-conflito-na-piramide.md) que tudo comanda.
 
+
+Para orientar investidores e gerentes em suas decisões na direção do ótimo global, precisa-se de um modelo de Sistema de Informação, formado de elementos simples combinados, que expressem as melhores práticas de gerenciamento e administração. O Ampli Business  propõe um esforço de padronização em quatro camadas:
+
+1.	Indicadores da Empresa
+2.	Cyclo: A Máquina do Ganho
+3.	bAmpli: Amplificador de Negócios
+4.	Circuitos bAmpli
+
 ## 1 - Indicadores da Empresa	
 
 Os Indicadores da Empresa, listados a seguir, apresentam a informação básica a ser disponibilizada para as operações realizadas nas camadas superiores. A simplicidade das equações é vital para a sua aceitação e compreensão geral. Estas são as informações financeiras básicas que as empresas, de qualquer tipo e tamanho, deverão ter e manter.	
