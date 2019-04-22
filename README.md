@@ -1,7 +1,7 @@
 # Ampli Business
 
 - Assunto amplamente discutido no livro [Amplificador de Negócios](https://www.amazon.com/Amplificador-Neg%C3%B3cios-intelig%C3%AAncia-aproveitar-dispon%C3%ADveis/dp/8592301009).
-- Subject widely discussed in the book [Business Amplifier](https://www.amazon.com/Amplificador-Neg%C3%B3cios-intelig%C3%AAncia-aproveitar-dispon%C3%ADveis/dp/8592301009), in Portuguese.
+- *Subject widely discussed in the book* [Business Amplifier](https://www.amazon.com/Amplificador-Neg%C3%B3cios-intelig%C3%AAncia-aproveitar-dispon%C3%ADveis/dp/8592301009)*, in Portuguese.*
 
 #### Roteiro:
 
