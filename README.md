@@ -12,7 +12,7 @@
 
 #### Resumo:
 
-Para orientar investidores e gerentes em suas decisões na direção do ótimo global, precisa-se de um modelo de Sistema de Informação, formado de elementos simples combinados, que expressem as melhores práticas de gerenciamento e administração. O Ampli Business  propõe um esforço de padronização em quatro camadas:
+Para orientar investidores e gerentes a decidir na direção do ótimo global, precisa-se de um modelo de Sistema de Informação, formado de elementos simples combinados, que expressem as melhores práticas de gerenciamento e administração. O Ampli Business  propõe um esforço de padronização em quatro camadas:
 
 1.	Indicadores da Empresa
 2.	Cyclo: A Máquina do Ganho
