@@ -17,7 +17,7 @@ Para orientar investidores e gerentes a decidir na direção do ótimo global, p
 1.	Indicadores da Empresa
 2.	Cyclo: A Máquina do Ganho
 3.	bAmpli: Amplificador de Negócios
-4.	Circuitos bAmpli
+4.	Circuito de Negócios
 
 ## 1 - Indicadores da Empresa	
 
@@ -49,7 +49,7 @@ A operação do bAmpli estabelece as regras da Camada 3, aferindo o plano estabe
 
 ![bAmpli: Amplificador de Negócios](http://i.imgur.com/WClMUQp.png)	
 
-## 4 - Circuitos de Negócios	
+## 4 - Circuito de Negócios	
 
 Como pode ser visto a seguir, o circuito de negócios exprime com precisão o relacionamento entre as partes envolvidas, quer estejam sob o mesmo galpão de uma fábrica, ou distribuídas por milhares de parceiros em um canal de distribuição de um país distante. É flexível e pode ser expandido indefinidamente.
 
