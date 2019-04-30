@@ -19,6 +19,19 @@ Para orientar investidores e gerentes a decidir na direção do ótimo global, p
 3.	bAmpli: Amplificador de Negócios
 4.	Circuito de Negócios
 
+![](https://i.imgur.com/UxDlFic.png)
+
+| Legenda |       |
+| :---: |     :---       |  
+| +     | Investidor     | 
+| I     | Investimento   |    
+| REAL  | Realidade      |   
+| A     | Administração  |   
+| Cyclo | Ciclo do Processo   |     
+| G     | Ganho               |   
+| O     | Despesa Operacional |   
+| L     | Lucro Líquido       |   
+
 ## 1 - Indicadores da Empresa	
 
 Os Indicadores da Empresa, listados a seguir, apresentam a informação básica a ser disponibilizada para as operações realizadas nas camadas superiores. A simplicidade das equações é vital para a sua aceitação e compreensão geral. Estas são as informações financeiras básicas que as empresas, de qualquer tipo e tamanho, deverão ter e manter.	
