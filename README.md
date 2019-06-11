@@ -5,10 +5,10 @@
 
 #### Roteiro:
 
-- **[O que mudar](./1.o-que-mudar.md)**: Explorando primeiro a [raiz do problema](./1.o-que-mudar.md). 
-- **[Para o que mudar](./2.para-o-que-mudar.md)**: O [conhecimento já desenvolvido](./2.para-o-que-mudar.md) no passado é o ponto de partida.
-- **[Como mudar](./3.como-mudar.md)**: A missão é [orientar a decisão de investidores e gerentes](./3.como-mudar.md) para o ótimo global.
-- **[O conflito na pirâmide](./4.o-conflito-na-piramide.md)**: Analisando a [pirâmide hierárquica](./4.o-conflito-na-piramide.md) que tudo comanda.
+- **[O que mudar](./pt/1.o-que-mudar.md)**: Explorando primeiro a [raiz do problema](./pt/1.o-que-mudar.md). 
+- **[Para o que mudar](./pt/2.para-o-que-mudar.md)**: O [conhecimento já desenvolvido](./pt/2.para-o-que-mudar.md) no passado é o ponto de partida.
+- **[Como mudar](./pt/3.como-mudar.md)**: A missão é [orientar a decisão de investidores e gerentes](./pt/3.como-mudar.md) para o ótimo global.
+- **[O conflito na pirâmide](./pt/4.o-conflito-na-piramide.md)**: Analisando a [pirâmide hierárquica](./pt/4.o-conflito-na-piramide.md) que tudo comanda.
 
 #### Resumo:
 
